@@ -14,6 +14,7 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
+
 ```
 Git clone https://github.com/lennoxomoni/codeweek1.git
 
@@ -23,9 +24,10 @@ Git clone https://github.com/lennoxomoni/codeweek1.git
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
+Html
 Github
 Javascript
+
 
 ## Support and contact details
 github.com/lennox ngubo
